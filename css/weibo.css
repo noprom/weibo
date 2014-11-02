@@ -1,0 +1,12 @@
+/*=======================微博主页样式==========================*/
+*{
+	font-family: "微软雅黑";
+}
+
+.weibo{
+	margin-top: 100px;
+}
+.qiandao img{
+	width: 50px;
+	height: 50px;
+}
